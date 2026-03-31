@@ -1,21 +1,22 @@
 title: Isle of Man Planning Statistics
 description: Data analysis and statistics on planning applications across the Isle of Man — powered by PlanningPortal.im
-url: "https://matthewkeen.github.io"
+url: "https://isle-of-man-planning.github.io"
 baseurl: "/iom-planning-stats"
 
-# Author
 author:
-  name: PlanningPortal.im
+  name: Isle of Man Planning
   url: https://planningportal.im
 
-# Theme
 theme: minima
 
-# Navigation
-header_pages:
-  - about.md
+links:
+  - title: PlanningPortal.im
+    url: https://planningportal.im
+  - title: Query Tool
+    url: https://github.com/isle-of-man-planning/iom-planning-query
+  - title: Statistics Repo
+    url: https://github.com/isle-of-man-planning/iom-planning-stats
 
-# Plugins
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
