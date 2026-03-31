@@ -9,29 +9,29 @@ Isle of Man property prices have climbed sharply since 2020. This article uses L
 
 ## Average Sale Price by Parish
 
-Based on recorded transactions from 2001 to 2026:
+Based on recorded transactions of £50,000 or more from 2001 to 2026:
 
 | Parish | Transactions | Average Price |
 |--------|-------------|---------------|
-| Santon | 380 | £384,272 |
-| Marown | 949 | £381,712 |
-| Braddan | 2,865 | £354,828 |
-| Malew | 2,882 | £346,662 |
-| Lonan | 1,378 | £343,639 |
-| Arbory | 785 | £331,785 |
-| Jurby | 237 | £318,801 |
-| Onchan | 10,444 | £306,089 |
-| Rushen | 3,457 | £300,688 |
-| Andreas | 758 | £296,842 |
-| Ballaugh | 490 | £291,316 |
-| Bride | 177 | £278,765 |
-| Michael | 902 | £278,060 |
-| Lezayre | 3,387 | £274,586 |
-| Patrick | 849 | £261,146 |
-| German | 4,109 | £254,455 |
-| Maughold | 3,080 | £223,132 |
+| Santon | 334 | £433,975 |
+| Marown | 891 | £404,767 |
+| Jurby | 202 | £368,573 |
+| Braddan | 2,800 | £362,479 |
+| Malew | 2,770 | £359,585 |
+| Lonan | 1,319 | £357,786 |
+| Arbory | 738 | £351,300 |
+| Bride | 148 | £328,162 |
+| Andreas | 700 | £319,391 |
+| Onchan | 10,033 | £317,536 |
+| Ballaugh | 451 | £314,051 |
+| Rushen | 3,320 | £312,155 |
+| Lezayre | 3,131 | £294,958 |
+| Michael | 846 | £294,804 |
+| Patrick | 787 | £279,879 |
+| German | 3,976 | £262,064 |
+| Maughold | 2,717 | £249,449 |
 
-Rural parishes in the south and west tend to command higher prices, with larger plots and more detached stock. Santon, Marown, Malew and Braddan all average above £340,000.
+Rural parishes in the south and west tend to command higher prices, with larger plots and more detached stock. Santon, Marown, Braddan and Malew all average above £350,000.
 
 ## Year-on-Year Price Trends
 
