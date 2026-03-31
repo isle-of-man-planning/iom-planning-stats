@@ -3,19 +3,9 @@ description: Data analysis and statistics on planning applications across the Is
 url: "https://isle-of-man-planning.github.io"
 baseurl: "/iom-planning-stats"
 
-author:
-  name: Isle of Man Planning
-  url: https://planningportal.im
+author: Isle of Man Planning
 
 theme: minima
-
-links:
-  - title: PlanningPortal.im
-    url: https://planningportal.im
-  - title: Query Tool
-    url: https://github.com/isle-of-man-planning/iom-planning-query
-  - title: Statistics Repo
-    url: https://github.com/isle-of-man-planning/iom-planning-stats
 
 plugins:
   - jekyll-feed
