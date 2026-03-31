@@ -4,7 +4,7 @@ Data analysis and statistics on planning applications across the Isle of Man, so
 
 ## What's Here
 
-This repository contains statistical analysis, data breakdowns, and visualisations derived from over 81,000 planning applications submitted to the Isle of Man government.
+Statistical analysis, data breakdowns, and visualisations derived from over 81,000 planning applications submitted to the Isle of Man government.
 
 ### Topics Covered
 
@@ -25,10 +25,10 @@ All data is sourced from [PlanningPortal.im](https://planningportal.im), which a
 
 ## Articles
 
-Detailed analysis articles are published via GitHub Pages at:
-**[matthewkeen.github.io/iom-planning-stats](https://matthewkeen.github.io/iom-planning-stats)**
+Detailed analysis articles published at:
+**[isle-of-man-planning.github.io/iom-planning-stats](https://isle-of-man-planning.github.io/iom-planning-stats)**
 
-## Quick Stats (2024)
+## Quick Stats
 
 | Metric | Value |
 |--------|-------|
@@ -41,7 +41,7 @@ Detailed analysis articles are published via GitHub Pages at:
 ## Related
 
 - [PlanningPortal.im](https://planningportal.im) — Search planning applications by address, parish, or officer
-- [IOM Planning Query Tool](https://github.com/matthewkeen/iom-planning-query) — Python tool for querying the API
+- [IOM Planning Query Tool](https://github.com/isle-of-man-planning/iom-planning-query) — Python tool for querying the API
 
 ## Licence
 
