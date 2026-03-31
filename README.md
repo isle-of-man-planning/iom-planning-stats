@@ -13,6 +13,7 @@ Statistical analysis, data breakdowns, and visualisations derived from over 81,0
 - Most common application types (extensions, change of use, new builds)
 - Processing times and decision patterns
 - Planning agent performance data
+- Isle of Man house prices by parish
 
 ## Data Source
 
@@ -25,18 +26,7 @@ All data is sourced from [PlanningPortal.im](https://planningportal.im), which a
 
 ## Articles
 
-Detailed analysis articles published at:
-**[isle-of-man-planning.github.io/iom-planning-stats](https://isle-of-man-planning.github.io/iom-planning-stats)**
-
-## Quick Stats
-
-| Metric | Value |
-|--------|-------|
-| Total applications | 81,000+ |
-| Overall approval rate | ~75% |
-| Parishes covered | 24 |
-| Active planning officers | 12 |
-| Documents indexed | 342,000+ |
+Published at **[isle-of-man-planning.github.io/iom-planning-stats](https://isle-of-man-planning.github.io/iom-planning-stats)**
 
 ## Related
 
@@ -45,4 +35,6 @@ Detailed analysis articles published at:
 
 ## Licence
 
-Analysis and articles © PlanningPortal.im. Underlying planning data is public record from Isle of Man Government / DEFA.
+Content and data analysis is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). You are free to share and adapt this material provided you give credit and link back to [PlanningPortal.im](https://planningportal.im) as the original source.
+
+Underlying planning application data is public record from Isle of Man Government / DEFA.
