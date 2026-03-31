@@ -2,10 +2,10 @@
 layout: post
 title: "What Gets Approved: Isle of Man Planning Application Types"
 date: 2026-03-31
-description: "Which types of planning applications get approved on the Isle of Man? Approval rates by proposal type — extensions, new builds, change of use, and more."
+description: "Which types of planning applications get approved on the Isle of Man? Approval rates by proposal type across 80,000 decisions."
 ---
 
-Not all planning applications are equal. Extensions are approved at a very different rate to new builds, and change of use applications carry their own distinct approval patterns. This article breaks down approval rates by proposal type using data from [PlanningPortal.im](https://planningportal.im).
+Approval rates vary significantly by what you are applying for. An extension is almost always approved. A new build faces much tougher scrutiny. Here is how the numbers break down across 80,000+ Isle of Man planning decisions, using data from [PlanningPortal.im](https://planningportal.im).
 
 ## Approval Rates by Proposal Type
 
@@ -22,22 +22,12 @@ Not all planning applications are equal. Extensions are approved at a very diffe
 | Retrospective | 1,240 | 83.0% |
 | New Build | 3,560 | 69.9% |
 
-## Key Findings
+Extensions and alterations to existing properties sit above 93%. New builds come in at 69.9%, the lowest category. Retrospective applications (for work already done) are at 83%, lower than most people expect.
 
-**Extensions and alterations are almost always approved.** With approval rates above 93%, householder extensions and alterations to existing properties represent the safest category of planning application. The vast majority of home improvement projects get approved on the Isle of Man.
+Change of use sits at 87% overall, though the specific use matters a lot. Agricultural to residential, for example, tends to be more contentious than commercial to retail.
 
-**New builds face the greatest scrutiny.** At 69.9%, new build applications have the lowest approval rate — reflecting stricter policy constraints around greenfield development, design requirements, and infrastructure considerations.
-
-**Retrospective applications are riskier than you might think.** Applying for retrospective permission (for work already carried out) has an 83% approval rate — lower than most other categories. If the work would not have been approved in advance, it is unlikely to be approved retrospectively.
-
-**Change of use is mid-range.** At 87%, converting a property from one use to another — say, residential to commercial, or agricultural to residential — faces moderate scrutiny. The specific proposed use matters significantly.
-
-## What This Means for Applicants
-
-If you are planning an extension or alteration to your existing property, the data suggests your application has a high chance of success. New builds require more careful preparation and design consideration.
-
-For any application type, understanding local precedents — what has been approved nearby — significantly improves your chances. [PlanningPortal.im](https://planningportal.im) lets you search approved applications by type, parish, and street.
+If you are researching comparable approved applications before submitting, [PlanningPortal.im](https://planningportal.im) lets you filter by proposal type, parish, and street.
 
 ---
 
-*Data sourced from Isle of Man Government / DEFA via [PlanningPortal.im](https://planningportal.im).*
+*Data from Isle of Man Government / DEFA via [PlanningPortal.im](https://planningportal.im).*
