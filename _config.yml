@@ -1,5 +1,5 @@
 title: Isle of Man Planning Statistics
-description: Data analysis and statistics on planning applications across the Isle of Man — powered by PlanningPortal.im
+description: Data analysis and statistics on planning applications across the Isle of Man, powered by PlanningPortal.im
 url: "https://isle-of-man-planning.github.io"
 baseurl: "/iom-planning-stats"
 
@@ -10,3 +10,4 @@ theme: minima
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+  - jekyll-sitemap
