@@ -5,11 +5,11 @@ date: 2026-03-31
 description: "Average house prices across Isle of Man parishes and year-on-year trends from 2010 to 2025, based on Land Registry transaction data."
 ---
 
-House prices on the Isle of Man have risen sharply since 2020. This article analyses Land Registry transaction data available via [PlanningPortal.im](https://planningportal.im) to show what properties are actually selling for across the island.
+Isle of Man property prices have climbed sharply since 2020. This article uses Land Registry transaction data from [PlanningPortal.im](https://planningportal.im) to show what properties are selling for across the island.
 
 ## Average Sale Price by Parish
 
-Based on transactions from 2001–2026 where consideration exceeded £10,000:
+Based on recorded transactions from 2001 to 2026:
 
 | Parish | Transactions | Average Price |
 |--------|-------------|---------------|
@@ -31,11 +31,11 @@ Based on transactions from 2001–2026 where consideration exceeded £10,000:
 | German | 4,109 | £254,455 |
 | Maughold | 3,080 | £223,132 |
 
-Rural parishes in the south and west — Santon, Marown, Malew, Braddan — command the highest average prices, reflecting larger plot sizes and detached properties.
+Rural parishes in the south and west tend to command higher prices, with larger plots and more detached stock. Santon, Marown, Malew and Braddan all average above £340,000.
 
-## Year-on-Year Price Trends (Island-Wide)
+## Year-on-Year Price Trends
 
-Prices for transactions between £50,000 and £3,000,000:
+Island-wide averages for transactions between £50,000 and £3,000,000:
 
 | Year | Transactions | Average Price |
 |------|-------------|---------------|
@@ -56,16 +56,12 @@ Prices for transactions between £50,000 and £3,000,000:
 | 2024 | 1,588 | £350,747 |
 | 2025 | 1,672 | £376,528 |
 
-**The 2021–2022 surge:** Average prices jumped 16% in 2021 and a further 8% in 2022 — driven by post-pandemic demand, low interest rates, and IOM-specific inward migration. Prices have remained elevated since.
+Prices were largely flat from 2010 to 2020, hovering around £275,000 to £290,000. The jump in 2021 was abrupt, with average prices up 16% in a single year. By 2025, the average had reached £376,528, up 30% from 2020.
 
-**2025 recovery:** After a slight dip in 2023–2024, average prices hit a new peak of £376,528 in 2025 — a 33% increase from 2020 levels.
+## Property and Planning
 
-## Planning and Property
-
-Understanding local planning approvals can inform property decisions. Properties with approved or historic planning permissions often command a premium, and knowing what can be built nearby matters for buyers.
-
-Explore planning decisions alongside property data on [PlanningPortal.im](https://planningportal.im).
+Knowing what can be built on or near a property matters for buyers. [PlanningPortal.im](https://planningportal.im) lets you check planning history for any address on the island alongside transaction data.
 
 ---
 
-*Transaction data sourced from Isle of Man Land Registry via [PlanningPortal.im](https://planningportal.im).*
+*Transaction data from Isle of Man Land Registry via [PlanningPortal.im](https://planningportal.im).*
