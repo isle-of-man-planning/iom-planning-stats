@@ -2,10 +2,10 @@
 layout: post
 title: "Isle of Man Planning Applications: 2025 in Review"
 date: 2026-03-31
-description: "A data-driven review of all 1,274 planning applications submitted in 2025 on the Isle of Man — approval rates, busiest parishes, year-on-year trends, and more."
+description: "A data-driven review of all 1,274 planning applications submitted in 2025 on the Isle of Man — approval rates, busiest parishes, and year-on-year trends."
 ---
 
-In 2025, **1,274 planning applications** were submitted to the Isle of Man government — the second lowest annual total in five years. This article analyses every application using data from [PlanningPortal.im](https://planningportal.im), the island's open planning intelligence platform covering 80,000+ decisions since 1984.
+In 2025, **1,274 planning applications** were submitted to the Isle of Man government. This article pulls together the numbers using data from [PlanningPortal.im](https://planningportal.im), which covers 80,000+ planning decisions going back to 1984.
 
 ## Headline Numbers
 
@@ -16,11 +16,9 @@ In 2025, **1,274 planning applications** were submitted to the Isle of Man gover
 | Refused | 106 |
 | Withdrawn | 30 |
 | Decided | 1,160 |
-| Approval rate (decided) | 88.3% |
+| Approval rate | 88.3% |
 
-The 2025 approval rate of 88.3% is consistent with recent years and slightly above the all-time average of 84.9%.
-
-## Year-on-Year Trend
+## Year-on-Year
 
 | Year | Applications | Decided | Approval Rate |
 |------|-------------|---------|---------------|
@@ -31,11 +29,9 @@ The 2025 approval rate of 88.3% is consistent with recent years and slightly abo
 | 2024 | 1,438 | 1,416 | 88.6% |
 | 2025 | 1,274 | 1,160 | 88.3% |
 
-2023 was an exceptional year with 1,782 applications — well above the typical 1,300–1,600 range. 2025 returned to a lower volume, consistent with 2021.
+2023 was the busiest year in the data at 1,782 applications. 2025 came in 29% lower.
 
 ## Busiest Parishes
-
-Douglas dominated planning activity in 2025, accounting for over a fifth of all applications on the island.
 
 | Parish | Applications | Approved | Approval Rate |
 |--------|-------------|----------|---------------|
@@ -52,16 +48,12 @@ Douglas dominated planning activity in 2025, accounting for over a fifth of all 
 | Andreas | 38 | 29 | 87.9% |
 | German | 34 | 27 | 93.1% |
 
-German parish had the highest approval rate among larger parishes at 93.1%.
+Douglas accounted for over a fifth of all 2025 applications. German had the highest approval rate among the larger parishes at 93.1%.
 
 ## Explore the Data
 
-Every application in this analysis is searchable on [PlanningPortal.im](https://planningportal.im). Search by address, postcode, parish, or case officer — or browse the [statistics page](https://planningportal.im/statistics) for full historical data going back to 1984.
-
-- [Browse all applications](https://planningportal.im/search)
-- [Compare parishes](https://planningportal.im/statistics)
-- [View officer profiles](https://planningportal.im/officers)
+Search any application on [PlanningPortal.im](https://planningportal.im) by address, postcode, parish, or officer. The [statistics page](https://planningportal.im/statistics) has the full picture from 1984 to today.
 
 ---
 
-*Data sourced from the Isle of Man Department of Environment, Food and Agriculture (DEFA) via [PlanningPortal.im](https://planningportal.im). All planning applications are public record.*
+*Data from Isle of Man Government / DEFA via [PlanningPortal.im](https://planningportal.im).*
