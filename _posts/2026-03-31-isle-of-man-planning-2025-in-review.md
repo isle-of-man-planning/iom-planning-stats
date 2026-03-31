@@ -2,92 +2,61 @@
 layout: post
 title: "Isle of Man Planning Applications: 2025 in Review"
 date: 2026-03-31
-description: "A data-driven review of all 1,281 planning applications submitted to the Isle of Man in 2025 — approval rates, busiest parishes, top case officers, and year-on-year trends."
+description: "A data-driven review of all 1,206 planning decisions issued on the Isle of Man in 2025 — approval rates, busiest parishes, top case officers, and year-on-year trends."
 ---
 
-A total of **1,281 planning applications** were submitted to the Isle of Man government in 2025. This article analyses every application using data from [PlanningPortal.im](https://planningportal.im) — the island's open planning intelligence platform.
+In 2025, the Isle of Man planning system issued **1,206 planning decisions** — the lowest annual total since 2021. This article analyses every decision using data from [PlanningPortal.im](https://planningportal.im), the island's open planning intelligence platform covering 80,000+ decisions since 1984.
 
 ## Headline Numbers
 
 | Metric | 2025 |
 |--------|------|
-| Total applications | 1,281 |
-| Approved | 1,024 (80%) |
-| Refused | 110 (9%) |
-| Withdrawn | 30 (2%) |
-| Average decision time | 77 days |
-| Fastest decision | 1 day |
-| Longest decision | 385 days |
+| Total decisions | 1,206 |
+| Approved | 1,029 (85.3%) |
+| Refused | 116 (9.6%) |
+| Withdrawn | 55 (4.6%) |
+| Overall approval rate | 85.3% |
+
+The 2025 approval rate of 85.3% is slightly below the all-time average of 84.9%, continuing a modest softening from the 88%+ rates seen in 2020–2024.
 
 ## Year-on-Year Trend
 
-Application volumes have declined steadily since 2021:
+| Year | Decisions | Approval Rate |
+|------|-----------|---------------|
+| 2020 | 1,574 | 88.3% |
+| 2021 | 1,408 | 86.7% |
+| 2022 | 1,483 | 86.4% |
+| 2023 | 1,447 | 88.3% |
+| 2024 | 1,586 | 88.2% |
+| 2025 | 1,206 | 85.3% |
 
-| Year | Applications |
-|------|-------------|
-| 2021 | 1,458 |
-| 2022 | 1,440 |
-| 2023 | 1,442 |
-| 2024 | 1,417 |
-| 2025 | 1,281 |
-
-2025 saw the lowest volume in five years — a 12% drop from the 2021 peak.
+2025 saw a significant drop in decision volume — down 24% from 2024's 1,586. Whether this reflects a slowdown in applications or a processing backlog at DEFA remains to be seen.
 
 ## Busiest Parishes
 
-Braddan dominated planning activity in 2025, accounting for 37% of all applications — an unusually high concentration driven partly by large development sites in the parish.
+Braddan accounted for 36% of all planning decisions in 2025 — an extraordinary concentration driven by large residential and commercial development in the parish.
 
-| Parish | Applications | Approval Rate |
-|--------|-------------|---------------|
-| Braddan | 472 | 88% |
-| Lezayre | 188 | 86% |
-| Malew | 174 | 88% |
-| German | 128 | 81% |
-| Rushen | 89 | 87% |
-| Lonan | 53 | 96% |
-| Michael | 44 | 100% |
-| Marown | 33 | 81% |
+| Parish | Decisions | Approved | Approval Rate |
+|--------|-----------|----------|---------------|
+| Braddan | 436 | 372 | 85% |
+| Lezayre | 168 | 142 | 85% |
+| Malew | 159 | 139 | 87% |
+| German | 123 | 98 | 80% |
+| Rushen | 80 | 70 | 88% |
+| Lonan | 59 | 53 | 90% |
+| Michael | 51 | 49 | 96% |
+| Marown | 37 | 30 | 81% |
+| Patrick | 20 | 17 | 85% |
+| Santon | 18 | 13 | 72% |
 
-Michael parish achieved a 100% approval rate in 2025 — every application decided was approved.
-
-## Application Types
-
-Full planning applications dominated, making up 65% of all submissions:
-
-| Type | Count |
-|------|-------|
-| Full Planning Application | 835 |
-| Additional Information Request | 146 |
-| Change of Use | 85 |
-| Minor Change to Approved Plans | 47 |
-| Appeal | 45 |
-| Discharge of Conditions | 38 |
-| Advertisement Consent | 30 |
-| Certificate of Lawful Development | 27 |
-
-## Most Active Case Officers
-
-Ten officers handled the majority of applications in 2025:
-
-| Officer | Applications |
-|---------|-------------|
-| Vanessa Porter | 90 |
-| Chris Balmer | 90 |
-| Peiran Shen | 88 |
-| Jason Singleton | 81 |
-| Charlotte Crowe | 58 |
-| Belinda Fettis | 51 |
-| Russell Williams | 51 |
-| Paul Visigah | 40 |
-| Hamish Laird | 33 |
-| Thomas Sinden | 32 |
+Michael parish had a 96% approval rate in 2025 — only 2 of 51 applications were not approved.
 
 ## Explore the Data
 
-Every application in this analysis is searchable on [PlanningPortal.im](https://planningportal.im). Search by address, postcode, parish, or case officer — or browse the interactive map to see what has been approved near you.
+Every application in this analysis is searchable on [PlanningPortal.im](https://planningportal.im). Search by address, postcode, parish, or case officer — or browse the [statistics page](https://planningportal.im/statistics) for full historical data going back to 1984.
 
-- [Search 2025 applications](https://planningportal.im/search?year=2025)
-- [Browse by parish](https://planningportal.im/parishes)
+- [Browse 2025 decisions](https://planningportal.im/search)
+- [Compare parishes](https://planningportal.im/statistics)
 - [View officer profiles](https://planningportal.im/officers)
 
 ---
