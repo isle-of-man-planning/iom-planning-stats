@@ -2,12 +2,12 @@
 layout: post
 title: "Isle of Man Planning by Parish: Application Volumes and Approval Rates"
 date: 2026-03-31
-description: "Comparing planning application volumes and approval rates across all 24 Isle of Man parishes — from Douglas to Bride."
+description: "Application volumes and approval rates across all 24 Isle of Man parishes, from Douglas to Bride."
 ---
 
-The Isle of Man is divided into 24 parishes, each with distinct planning characteristics. This article compares all 24 using data from [PlanningPortal.im](https://planningportal.im), covering 80,000+ applications since the 1980s.
+The Isle of Man has 24 parishes. Below is how planning activity breaks down across all of them, using data from [PlanningPortal.im](https://planningportal.im) covering 80,000+ applications.
 
-## All 24 Parishes Ranked by Application Volume
+## All 24 Parishes
 
 | Parish | Applications | Approved | Approval Rate |
 |--------|-------------|----------|---------------|
@@ -36,25 +36,19 @@ The Isle of Man is divided into 24 parishes, each with distinct planning charact
 | Jurby | 882 | 696 | 79.6% |
 | Bride | 715 | 553 | 77.9% |
 
-## Key Findings
+Douglas accounts for 24% of all planning activity on the island. Port St Mary (87.2%) and Onchan (86.9%) have the highest approval rates among parishes with significant volumes. German (75.0%) and Santon (75.4%) are the most challenging.
 
-**Highest approval rate:** Port St Mary (87.2%) and Onchan (86.9%) lead among parishes with significant application volumes.
-
-**Lowest approval rate:** German (75.0%) and Santon (75.4%) have the most challenging planning environments relative to their application volumes.
-
-**Douglas dominates:** With nearly 20,000 applications, Douglas accounts for 24% of all planning activity on the island — more than triple the next busiest parish.
-
-**Smallest parishes:** Bride (715 applications) and Jurby (882) are the quietest parishes for planning activity, reflecting their smaller populations and rural character.
+Bride is the smallest parish by planning volume at 715 applications. Jurby is next at 882.
 
 ## Search by Parish
 
-Every application in every parish is searchable on [PlanningPortal.im](https://planningportal.im). Click through to see recent decisions, nearby approved applications, and what gets built in your area.
+Every application is searchable on [PlanningPortal.im](https://planningportal.im).
 
 - [Douglas planning applications](https://planningportal.im/parishes/douglas)
 - [Onchan planning applications](https://planningportal.im/parishes/onchan)
 - [Ramsey planning applications](https://planningportal.im/parishes/ramsey)
-- [View all parishes](https://planningportal.im/parishes)
+- [All parishes](https://planningportal.im/parishes)
 
 ---
 
-*Data sourced from Isle of Man Government / DEFA via [PlanningPortal.im](https://planningportal.im).*
+*Data from Isle of Man Government / DEFA via [PlanningPortal.im](https://planningportal.im).*
